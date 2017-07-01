@@ -2,7 +2,7 @@
 ## An Android App Developed in Android Studio
 
 #### Short Description: In this game, play as Ken and dodge the incoming fireballs falling from the sky. 
-#### Try to set the high score!
+#### Each fireball dodged increases the score counter. Try to set the high score!
 
 Features:
 - The main menu features a slick *dragon punch* animation.
